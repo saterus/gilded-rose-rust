@@ -1,0 +1,4 @@
+[package]
+name = "gilded_rose_kata"
+version = "0.1.0"
+authors = ["Alex Burkhart <saterus@gmail.com>"]

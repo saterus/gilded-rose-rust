@@ -1,0 +1,401 @@
+     Running `target/debug/gilded_rose_kata`
+Day 0:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 10, quality: 20 }
+Item { name: "Aged Brie", sell_in: 2, quality: 0 }
+Item { name: "Elixir of the Mongoose", sell_in: 5, quality: 7 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 15, quality: 20 }
+Item { name: "Conjured Mana Cake", sell_in: 3, quality: 6 }
+Day 1:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 9, quality: 19 }
+Item { name: "Aged Brie", sell_in: 1, quality: 1 }
+Item { name: "Elixir of the Mongoose", sell_in: 4, quality: 6 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 14, quality: 21 }
+Item { name: "Conjured Mana Cake", sell_in: 2, quality: 5 }
+Day 2:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 8, quality: 18 }
+Item { name: "Aged Brie", sell_in: 0, quality: 2 }
+Item { name: "Elixir of the Mongoose", sell_in: 3, quality: 5 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 13, quality: 22 }
+Item { name: "Conjured Mana Cake", sell_in: 1, quality: 4 }
+Day 3:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 7, quality: 17 }
+Item { name: "Aged Brie", sell_in: -1, quality: 4 }
+Item { name: "Elixir of the Mongoose", sell_in: 2, quality: 4 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 12, quality: 23 }
+Item { name: "Conjured Mana Cake", sell_in: 0, quality: 3 }
+Day 4:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 6, quality: 16 }
+Item { name: "Aged Brie", sell_in: -2, quality: 6 }
+Item { name: "Elixir of the Mongoose", sell_in: 1, quality: 3 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 11, quality: 24 }
+Item { name: "Conjured Mana Cake", sell_in: -1, quality: 1 }
+Day 5:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 5, quality: 15 }
+Item { name: "Aged Brie", sell_in: -3, quality: 8 }
+Item { name: "Elixir of the Mongoose", sell_in: 0, quality: 2 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 10, quality: 25 }
+Item { name: "Conjured Mana Cake", sell_in: -2, quality: 0 }
+Day 6:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 4, quality: 14 }
+Item { name: "Aged Brie", sell_in: -4, quality: 10 }
+Item { name: "Elixir of the Mongoose", sell_in: -1, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 9, quality: 27 }
+Item { name: "Conjured Mana Cake", sell_in: -3, quality: 0 }
+Day 7:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 3, quality: 13 }
+Item { name: "Aged Brie", sell_in: -5, quality: 12 }
+Item { name: "Elixir of the Mongoose", sell_in: -2, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 8, quality: 29 }
+Item { name: "Conjured Mana Cake", sell_in: -4, quality: 0 }
+Day 8:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 2, quality: 12 }
+Item { name: "Aged Brie", sell_in: -6, quality: 14 }
+Item { name: "Elixir of the Mongoose", sell_in: -3, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 7, quality: 31 }
+Item { name: "Conjured Mana Cake", sell_in: -5, quality: 0 }
+Day 9:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 1, quality: 11 }
+Item { name: "Aged Brie", sell_in: -7, quality: 16 }
+Item { name: "Elixir of the Mongoose", sell_in: -4, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 6, quality: 33 }
+Item { name: "Conjured Mana Cake", sell_in: -6, quality: 0 }
+Day 10:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: 0, quality: 10 }
+Item { name: "Aged Brie", sell_in: -8, quality: 18 }
+Item { name: "Elixir of the Mongoose", sell_in: -5, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 5, quality: 35 }
+Item { name: "Conjured Mana Cake", sell_in: -7, quality: 0 }
+Day 11:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -1, quality: 8 }
+Item { name: "Aged Brie", sell_in: -9, quality: 20 }
+Item { name: "Elixir of the Mongoose", sell_in: -6, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 4, quality: 38 }
+Item { name: "Conjured Mana Cake", sell_in: -8, quality: 0 }
+Day 12:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -2, quality: 6 }
+Item { name: "Aged Brie", sell_in: -10, quality: 22 }
+Item { name: "Elixir of the Mongoose", sell_in: -7, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 3, quality: 41 }
+Item { name: "Conjured Mana Cake", sell_in: -9, quality: 0 }
+Day 13:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -3, quality: 4 }
+Item { name: "Aged Brie", sell_in: -11, quality: 24 }
+Item { name: "Elixir of the Mongoose", sell_in: -8, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 2, quality: 44 }
+Item { name: "Conjured Mana Cake", sell_in: -10, quality: 0 }
+Day 14:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -4, quality: 2 }
+Item { name: "Aged Brie", sell_in: -12, quality: 26 }
+Item { name: "Elixir of the Mongoose", sell_in: -9, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 1, quality: 47 }
+Item { name: "Conjured Mana Cake", sell_in: -11, quality: 0 }
+Day 15:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -5, quality: 0 }
+Item { name: "Aged Brie", sell_in: -13, quality: 28 }
+Item { name: "Elixir of the Mongoose", sell_in: -10, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: 0, quality: 50 }
+Item { name: "Conjured Mana Cake", sell_in: -12, quality: 0 }
+Day 16:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -6, quality: 0 }
+Item { name: "Aged Brie", sell_in: -14, quality: 30 }
+Item { name: "Elixir of the Mongoose", sell_in: -11, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -1, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -13, quality: 0 }
+Day 17:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -7, quality: 0 }
+Item { name: "Aged Brie", sell_in: -15, quality: 32 }
+Item { name: "Elixir of the Mongoose", sell_in: -12, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -2, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -14, quality: 0 }
+Day 18:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -8, quality: 0 }
+Item { name: "Aged Brie", sell_in: -16, quality: 34 }
+Item { name: "Elixir of the Mongoose", sell_in: -13, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -3, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -15, quality: 0 }
+Day 19:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -9, quality: 0 }
+Item { name: "Aged Brie", sell_in: -17, quality: 36 }
+Item { name: "Elixir of the Mongoose", sell_in: -14, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -4, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -16, quality: 0 }
+Day 20:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -10, quality: 0 }
+Item { name: "Aged Brie", sell_in: -18, quality: 38 }
+Item { name: "Elixir of the Mongoose", sell_in: -15, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -5, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -17, quality: 0 }
+Day 21:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -11, quality: 0 }
+Item { name: "Aged Brie", sell_in: -19, quality: 40 }
+Item { name: "Elixir of the Mongoose", sell_in: -16, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -6, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -18, quality: 0 }
+Day 22:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -12, quality: 0 }
+Item { name: "Aged Brie", sell_in: -20, quality: 42 }
+Item { name: "Elixir of the Mongoose", sell_in: -17, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -7, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -19, quality: 0 }
+Day 23:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -13, quality: 0 }
+Item { name: "Aged Brie", sell_in: -21, quality: 44 }
+Item { name: "Elixir of the Mongoose", sell_in: -18, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -8, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -20, quality: 0 }
+Day 24:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -14, quality: 0 }
+Item { name: "Aged Brie", sell_in: -22, quality: 46 }
+Item { name: "Elixir of the Mongoose", sell_in: -19, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -9, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -21, quality: 0 }
+Day 25:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -15, quality: 0 }
+Item { name: "Aged Brie", sell_in: -23, quality: 48 }
+Item { name: "Elixir of the Mongoose", sell_in: -20, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -10, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -22, quality: 0 }
+Day 26:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -16, quality: 0 }
+Item { name: "Aged Brie", sell_in: -24, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -21, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -11, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -23, quality: 0 }
+Day 27:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -17, quality: 0 }
+Item { name: "Aged Brie", sell_in: -25, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -22, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -12, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -24, quality: 0 }
+Day 28:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -18, quality: 0 }
+Item { name: "Aged Brie", sell_in: -26, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -23, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -13, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -25, quality: 0 }
+Day 29:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -19, quality: 0 }
+Item { name: "Aged Brie", sell_in: -27, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -24, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -14, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -26, quality: 0 }
+Day 30:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -20, quality: 0 }
+Item { name: "Aged Brie", sell_in: -28, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -25, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -15, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -27, quality: 0 }
+Day 31:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -21, quality: 0 }
+Item { name: "Aged Brie", sell_in: -29, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -26, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -16, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -28, quality: 0 }
+Day 32:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -22, quality: 0 }
+Item { name: "Aged Brie", sell_in: -30, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -27, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -17, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -29, quality: 0 }
+Day 33:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -23, quality: 0 }
+Item { name: "Aged Brie", sell_in: -31, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -28, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -18, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -30, quality: 0 }
+Day 34:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -24, quality: 0 }
+Item { name: "Aged Brie", sell_in: -32, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -29, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -19, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -31, quality: 0 }
+Day 35:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -25, quality: 0 }
+Item { name: "Aged Brie", sell_in: -33, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -30, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -20, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -32, quality: 0 }
+Day 36:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -26, quality: 0 }
+Item { name: "Aged Brie", sell_in: -34, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -31, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -21, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -33, quality: 0 }
+Day 37:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -27, quality: 0 }
+Item { name: "Aged Brie", sell_in: -35, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -32, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -22, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -34, quality: 0 }
+Day 38:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -28, quality: 0 }
+Item { name: "Aged Brie", sell_in: -36, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -33, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -23, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -35, quality: 0 }
+Day 39:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -29, quality: 0 }
+Item { name: "Aged Brie", sell_in: -37, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -34, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -24, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -36, quality: 0 }
+Day 40:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -30, quality: 0 }
+Item { name: "Aged Brie", sell_in: -38, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -35, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -25, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -37, quality: 0 }
+Day 41:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -31, quality: 0 }
+Item { name: "Aged Brie", sell_in: -39, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -36, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -26, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -38, quality: 0 }
+Day 42:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -32, quality: 0 }
+Item { name: "Aged Brie", sell_in: -40, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -37, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -27, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -39, quality: 0 }
+Day 43:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -33, quality: 0 }
+Item { name: "Aged Brie", sell_in: -41, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -38, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -28, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -40, quality: 0 }
+Day 44:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -34, quality: 0 }
+Item { name: "Aged Brie", sell_in: -42, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -39, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -29, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -41, quality: 0 }
+Day 45:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -35, quality: 0 }
+Item { name: "Aged Brie", sell_in: -43, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -40, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -30, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -42, quality: 0 }
+Day 46:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -36, quality: 0 }
+Item { name: "Aged Brie", sell_in: -44, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -41, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -31, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -43, quality: 0 }
+Day 47:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -37, quality: 0 }
+Item { name: "Aged Brie", sell_in: -45, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -42, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -32, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -44, quality: 0 }
+Day 48:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -38, quality: 0 }
+Item { name: "Aged Brie", sell_in: -46, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -43, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -33, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -45, quality: 0 }
+Day 49:
+========================================
+Item { name: "+5 Dexterity Vest", sell_in: -39, quality: 0 }
+Item { name: "Aged Brie", sell_in: -47, quality: 50 }
+Item { name: "Elixir of the Mongoose", sell_in: -44, quality: 0 }
+Item { name: "Sulfuras, Hand of Ragnaros", sell_in: 0, quality: 80 }
+Item { name: "Backstage passes to a TAFKAL80ETC concert", sell_in: -34, quality: 0 }
+Item { name: "Conjured Mana Cake", sell_in: -46, quality: 0 }
