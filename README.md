@@ -5,13 +5,13 @@ This is a Rust version of the Gilded Rose Kata, found
 Much of this README is inspired by [Jim Weirich's Ruby
 Translation](https://github.com/jimweirich/gilded_rose_kata).
 
-This is a refactorying kata, so you will be starting with a legacy code base.
+This is a refactoring kata, so you will be starting with a legacy code base.
 There is a complex set of existing business rules that need to be extended.
 You need to do so carefully, as not to break the existing behavior.
 
 This version of the Gilded Rose is a direct translation of the original C#
 code. The fewest modifications possible were made to get it compiling. It is
-not idomatic Rust. Part of refactoring is making the code read more clearly, so
+not idiomatic Rust. Part of refactoring is making the code read more clearly, so
 feel free to make the code more Rustic.
 
 ## Changes from the original
