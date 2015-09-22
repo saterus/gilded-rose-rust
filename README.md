@@ -32,6 +32,10 @@ changes:
   with. As a result, `UpdateQuality` has been changed to take the items as an
   argument.
 
+* The Item data structure is not to be changed. It is a public api that we do
+  not control. I've moved the Item struct into a separate module to emphasize
+  this boundary.
+
 
 # The Gilded Rose
 

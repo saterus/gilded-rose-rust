@@ -1,12 +1,9 @@
 // Barely Modified from the Original C# code. None of the code has been modified to be idiomatic
 // Rust, but rather the most direct translation possible that still compiles.
 
-#[derive(Debug)]
-struct Item {
-    pub name: &'static str,
-    pub sell_in: i64,
-    pub quality: i64,
-}
+extern crate gilded_rose;
+
+use gilded_rose::goblin::Item;
 
 fn main() {
     let mut items = vec!
